@@ -3,6 +3,7 @@
 UF Cobot Research Funding was provided by the NSF/NRI: INT: COLLAB: Manufacturing USA: Intelligent Human-Robot Collaboration for Smart Factory (Award I.D. #:1830383). Any opinions, findings and conclusions or recommendations expressed are those of the researchers and do not necessarily reflect the views of the National Science Foundation.
 
 Select the links below to view the archive for each publication:
+
 Journal articles:
 * Nicora, M.L., Ambrosetti, R., Wiens, G.J., and Fassi, I., 2020, “Human-Robot Collaboration In Smart Manufacturing: Robot Reactive Behavior Intelligence”, Journal of Manufacturing Science and Engineering, MANU-20-1283, 10pp., 2020. DOI: 10.1115/1.4048950
 * Streitmatter, G.L., and Wiens, G.J., “Human Modeling for Efficient Predictive Collision Detection”, Journal of Undergraduate Research, University of Florida, Gainesville, FL, Paper no.:  A-121680-Article Text-184618-1-4-20200411, 13 pp.

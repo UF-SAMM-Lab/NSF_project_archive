@@ -21,7 +21,7 @@
 title: NSF Project Archive
 email: 
 description: 
-baseurl:  "/NSV_project_archive" # the subpath of your site, e.g. /blog
+baseurl:  "/NSF_project_archive" # the subpath of your site, e.g. /blog
 url:  "https://uf-samm-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
